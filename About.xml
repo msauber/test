@@ -2,8 +2,8 @@
 
 <Translate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" LocaleID="12">
   <Phrases>
-    <Phrase Source="About" Name="About" Value="About {0}"/>
+    <Phrase Source="About" Name="About" Value="A propos {0}"/>
     <Phrase Source="About" Name="Version" Value="Version {0}"/>
-    <Phrase Source="About" Name="Language" Value="Current Language: {0}"/>
+    <Phrase Source="About" Name="Language" Value="Langue en cours: {0}"/>
   </Phrases>
 </Translate>
