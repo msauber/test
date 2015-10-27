@@ -4,6 +4,6 @@
   <Phrases>
     <Phrase Source="About" Name="About" Value="A propos {0}"/>
     <Phrase Source="About" Name="Version" Value="Version {0}"/>
-    <Phrase Source="About" Name="Language" Value="Langue en cours: {0}"/>
+    <Phrase Source="About" Name="Language" Value="Langue en cours : {0}"/>
   </Phrases>
 </Translate>
